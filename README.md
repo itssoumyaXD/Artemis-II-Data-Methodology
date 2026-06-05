@@ -82,28 +82,13 @@ https://posit.co/download/rstudio-desktop/
 
 ### Step 2: Clone or Download This Repository
 
-**Option A — GitHub (recommended):**
-```bash
-git clone https://github.com/[your-username]/artemis-ii-methodology.git
-cd artemis-ii-methodology
-```
-
-**Option B — Manual download:**  
-Download the ZIP from the repository page, extract it, and open the folder.
+You need a copy of the code sved locally in order to run the program. 
 
 ---
 
 ### Step 3: Open the Script
 
 Open `analysis.R` in RStudio or any R-compatible editor.
-
-Confirm your working directory is set to the repository root (the folder containing `analysis.R`). In RStudio, go to:  
-**Session → Set Working Directory → To Source File Location**
-
-Or in the R console:
-```r
-setwd("/path/to/artemis-ii-methodology")
-```
 
 ---
 
