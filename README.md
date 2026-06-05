@@ -1,18 +1,13 @@
 # Artemis-II-Data-Methodology
 Bayesian within-subject longitudinal modeling applied to NHANES proxy data to demonstrate a methodology for extracting physiological insights from small-sample, high-dimensional spaceflight data. Submitted to NASA for Artemis II Human Research Data Methodology.
-# NASA Artemis II Human Research Data Methodology Challenge
-## Component 2: Methodology Demonstration — README
 
-**Submitted by:** Shanvi Soumya  
-**Affiliation:** University of Illinois Urbana-Champaign  
-**Degree Program:** B.S. Biochemistry | Minor: Chemistry, Statistics  
-**Challenge:** NASA Artemis II Human Research Data Methodology Challenge  
+## Component 2: Methodology Demonstration — README
 
 ---
 
 ## Overview
 
-This repository contains the full demonstration of a **Bayesian within-subject longitudinal modeling methodology** applied to NHANES proxy data, submitted as Component 2 of the NASA Artemis II Human Research Data Methodology Challenge.
+This repository contains the full demonstration of a **Bayesian within-subject longitudinal modeling methodology** applied to NHANES proxy data.
 
 The core scientific problem mirrored here is extracting meaningful physiological trajectory estimates from a very small, high-performing cohort (n=4 astronauts) with multiple biomarker measurements across pre-flight, in-flight, and post-flight timepoints. The methodology uses informative priors derived from a large terrestrial baseline population (NHANES) to compensate for the inherent statistical limitations of a four-person dataset.
 
