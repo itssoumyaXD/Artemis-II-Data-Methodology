@@ -1,9 +1,7 @@
-Component 2: Methodology Demonstration
+# Component 2: Methodology Demonstration
 #
 # Title:   Bayesian Within-Subject Longitudinal Modeling for Small-Sample
 #          Physiological Data: A Proxy Demonstration Using NHANES
-#
-# Creator:  Shanvi Soumya
 #
 # Description:
 #   This script demonstrates a Bayesian within-subject longitudinal modeling
